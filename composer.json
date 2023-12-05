@@ -1,5 +1,5 @@
 {
-    "name": "horde/compress-fast",
+    "name": "horde/compress_fast",
     "description": "Fast compression library",
     "type": "library",
     "homepage": "https://www.horde.org",
